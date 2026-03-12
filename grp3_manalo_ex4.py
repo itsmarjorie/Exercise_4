@@ -52,6 +52,5 @@ num_complex = 2 + 3j
 # Checking types
 print("Type of num_int:", type(num_int))
 print("Type of num_float:", type(num_float))
-print("Type of num_complex:",
+print("Type of num_complex:", type(num_complex))
 
-type(num_complex))
